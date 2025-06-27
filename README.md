@@ -16,7 +16,7 @@ Atypical mitoses mark a deviation in the cell division process that can be an in
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `AtNorM-Br/`: Dataset (TCGA-Breast atypical and normal mitoses)
 - `AtNorM-MD/`: Dataset (Multi-domain dataset from MIDOG++ featuring atypical and normal mitoses)
