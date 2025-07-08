@@ -21,7 +21,7 @@ Atypical mitoses mark a deviation in the cell division process that can be an in
 - `AtNorM-Br/`: Dataset (TCGA-Breast atypical and normal mitoses)
 - `AtNorM-MD/`: Dataset (Multi-domain dataset from MIDOG++ featuring atypical and normal mitoses)
 - `End-to-End_DL_Baselines/`: Fully trained baselines
-- `Foundation_Models/`: Linear probing and Low Rand Adaptation of foundation models
+- `Foundation_Models/`: Linear probing and Low Rank Adaptation of foundation models
 
 ---
 
